@@ -1,0 +1,111 @@
+@media (max-width:375px) {
+    body{
+        padding: 0;
+        margin: 0;
+    }
+    .section_headings{
+        font-size: 6rem;
+        width: 65rem;
+    }
+    .heading_parag{
+        width: 65rem;
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+    .download_btn{
+        display: flex;
+        flex-direction: column;
+        width: 65rem;
+        place-items: center;
+        font-size: 4rem;
+        padding: 4rem;
+        margin-top: 3rem;
+        border-radius: 100px;
+        border-bottom: 10px solid var(--Dark-Grayish-Blue);
+    }
+    .first_section_container img{
+        width: 25rem;
+        margin-bottom: 4rem;
+    }
+    .second_section_container{
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+    }
+    .section_content_wrapper{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .second_section_list{
+        text-align: center;
+    }
+    .second_section_list h2{
+        font-size: 5rem;
+    }
+    .second_section_list p{
+        font-size: 3rem;
+        line-height: 4rem;
+        width: 55rem;
+        margin-top: 2rem;
+    }
+    .workflow_list{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .workflow_list img{
+       width: 5rem;
+    }
+    .workflow_list h2{
+        font-size: 4.5rem;
+    }
+    .workflow_list p{
+        width: 65rem;
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+    .fifth_section_container img{
+        display: flex;
+        flex-direction: column;
+        width: 25rem;
+        margin-top: 10rem;
+    }
+    .page_footer{
+        display:grid;
+        grid-template-columns: 1fr;
+        gap: 5rem;
+        place-items: center;
+        align-items: center;
+        margin-top: 17rem;
+        margin-bottom: 5rem;
+    }
+    .page_footer img{
+        width: 15rem;
+        height: 15rem;
+    }
+    .footer_list{
+        display: flex;
+        flex-direction: column;
+        font-size: 3.5rem;
+        gap: 5rem;
+        text-align: center;
+        margin-left: 2rem;
+    }
+    .list_col{
+        display: grid;
+        gap: 5rem;
+    }
+    .social_links_list{
+        gap: 8rem;
+    }
+    .social_links_list i{
+        font-size: 6rem;
+     }
+     .foo{
+        padding: 2rem;
+        font-size: 2.5rem;
+        width: 83rem;
+        bottom: 0;
+        color: var(--Dark-Grayish-Blue);
+    }
+}
