@@ -20,4 +20,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here!](https://github.com/Jinzero10/-Clipboard-landing-page.git)
-- Live Site URL: [Click Here!](https://your-live-site-url.com)
+- Live Site URL: [Click Here!](https://iridescent-dieffenbachia-c76be1.netlify.app/)
