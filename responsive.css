@@ -93,21 +93,10 @@
         text-align: center;
         margin-left: 2rem;
     }
-    .list_col{
-        display: grid;
-        gap: 5rem;
-    }
     .social_links_list{
         gap: 8rem;
     }
     .social_links_list i{
         font-size: 6rem;
      }
-     .foo{
-        padding: 2rem;
-        font-size: 2.5rem;
-        width: 83rem;
-        bottom: 0;
-        color: var(--Dark-Grayish-Blue);
-    }
 }

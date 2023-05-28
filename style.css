@@ -173,6 +173,7 @@ a{
     place-items: center;
     align-items: center;
     margin-top: 17rem;
+    margin-bottom: 2rem;
 }
 .page_footer img{
     display: block;
@@ -202,7 +203,6 @@ ul.footer_list > li:nth-child(5){
     grid-column: 3;
     grid-row: 1;
 }
-
 .social_links_list{
     display: flex;
     gap: 1.5rem;
@@ -217,14 +217,3 @@ ul.footer_list > li:nth-child(5){
     color: var(--Strong-Cyan);
 }
 /*footer section end here*/
-.foo{
-    padding: .5rem;
-    font-size: 11px;
-    width: 84rem;
-    bottom: 0;
-    text-align: center;
-    color: var(--Dark-Grayish-Blue);
-}
-.attribution a{
-    color: var(--Dark-Grayish-Blue);
-}
